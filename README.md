@@ -1,6 +1,6 @@
 ### Abbas Hoseiny
 
-Independent security researcher and software builder — Konstanz, Germany.
+Independent security researcher and software builder — Baden-Württemberg, Germany.
 
 I find and responsibly disclose vulnerabilities in widely used software, and I build my own: web platforms, mobile apps, and tools.
 
